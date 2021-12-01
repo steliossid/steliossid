@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 💼 I’m currently working as a Data Science Engineer
+- 👨‍💻 I’m intrested in Data Science, Machine Learning and Software Engineering
+- ⚙️ I use daily: `.py`, `.ipynb`, `.sql`, `.csv`, `.R`, `.git`
+- 💬 You can find me on [Linkedin](https://www.linkedin.com/in/steliossid/)
+
 <!--
 **steliossid/steliossid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
