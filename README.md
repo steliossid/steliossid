@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👨‍💻 Currently working as a Data Science Engineer
-- 🎓 Applied Informatics BSc, Statistics & Machine Learning MSc
+- 🎓 Studied Applied Informatics BSc and Statistics & Machine Learning MSc
 - 🔭 Interested in Data Science, Machine Learning and Software Engineering
-- ⚙️ Use daily: `.py`, `.ipynb`, `.sql`, `.csv`, `.R`, `.git`
+- ⚙️ Daily use `.py`, `.ipynb`, `.sql`, `.csv`, `.R` and `.git`
 - 💬 Find me on [Linkedin](https://www.linkedin.com/in/steliossid/)
 
 <!--
