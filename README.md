@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Currently working as a Data Science Engineer
+- 👨‍💻 Currently working as a Data Engineer
 - 🎓 Studied Applied Informatics BSc and Statistics & Machine Learning MSc
 - 🔭 Interested in Data Engineering, Machine Learning and Software Engineering
 - ⚙️ Daily use of Python, R, SQL, NoSQL, GCP, REST APIs and Bash
